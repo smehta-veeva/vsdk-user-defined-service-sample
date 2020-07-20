@@ -1,0 +1,1 @@
+<stepheader><label>DSET-00003-Bicycle Part</label><steprequired>False</steprequired><checksum>a125027c5150db7f717ce21ecdb4cabc</checksum><datastepheader><object>bicycle_part__c</object><idparam>name__v</idparam><datatype>Object</datatype><action>Upsert</action><recordmigrationmode>False</recordmigrationmode><recordcount>7</recordcount></datastepheader></stepheader>

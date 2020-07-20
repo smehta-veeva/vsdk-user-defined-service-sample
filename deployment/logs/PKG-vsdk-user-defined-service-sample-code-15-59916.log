@@ -1,0 +1,34 @@
+--Deployment Package--
+Package:PKG-vsdk-user-defined-service-sample-code-15
+Package Type:Migration
+Start Time:19:06:2020 06:58:16
+Package Status:In Deployment
+VaultId:null
+Deployed By:admin@smtest.com
+
+--Deployment Steps--
+19:06:2020 06:58:17
+STEP 00010 Vault Java SDK Code
+ REVIEW deployment_status__v:"Imported"
+ EXECUTE "Deploy Vault Java SDK Code - Incremental"
+ SUCCESS "[SUCCESS] Deploy Vault Java SDK Code - Incremental"
+ SUMMARY "OK", successes:2, failures:0, execution_time:1894
+ DETAIL
+  FILE "javasdk/src/main/java/com/veeva/vault/custom/udc/BicycleModelData.java"
+  OPERATION "MODIFIED"
+  STATUS "SUCCESS"
+
+  FILE "javasdk/src/main/java/com/veeva/vault/custom/udc/ProductSearchUserDefinedServiceImplementation.java"
+  OPERATION "MODIFIED"
+  STATUS "SUCCESS"
+
+--Deployment Summary--
+End Time:19:06:2020 06:58:19
+Total Steps:1
+Deployed:1
+Deployed with warnings:0
+Deployed with failures:0
+Deployed with error:0
+Failed:0
+Skipped:0
+Package Status:Deployed

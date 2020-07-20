@@ -1,0 +1,8 @@
+name__v,price__c,bicycle_part_manufacturer__c.name__v,link__sys,quantity__c,status__v
+XCycle Bicycle Pedals,50,XCycle Parts,,100,"active__v"
+XCycle Comfort Seat,95,XCycle Parts,,100,"active__v"
+SpeedRacer Racing Bicycle Gears,100,SpeedRacer Bicycle Parts,,100,"active__v"
+SpeedRacer Racing Bicycle Chain,60,SpeedRacer Bicycle Parts,,100,"active__v"
+Nitro Racing Bicycle Light,40,Nitro Racing Bicycle Parts,,150,"active__v"
+Nitro Racing Bicycle Brakes,75,Nitro Racing Bicycle Parts,,100,"active__v"
+XCycle Electric Bicycle Conversion Kit,450,XCycle Parts,,350,"active__v"

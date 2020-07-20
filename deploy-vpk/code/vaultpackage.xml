@@ -1,0 +1,11 @@
+<vaultpackage xmlns="https://veevavault.com/">
+    <name>PKG-vsdk-user-defined-service-sample-code</name>
+    <source>
+        <author>Vault Developer Support</author>
+    </source>
+    <summary>The vsdk-user-defined-service-sample project source code.</summary>
+    <description>This VPK contains the Vault Java SDK source code for the vsdk-user-defined-service-sample project.</description>
+    <javasdk>
+        <deployment_option>incremental</deployment_option>
+    </javasdk>
+</vaultpackage>
